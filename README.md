@@ -11,6 +11,6 @@
   ## 
   <br>
   
-- 🔭 I’m currently working on Bootcamp MRV Fullstack Developer;
-- 🌱 I’m currently learning GIT, GitHub, HTML, CSS and another programming languages;
+- 🔭 I’m currently working on _Transforme-se Serasa Experian & Digital House Brasil_;
+- 🌱 I’m currently learning GIT, GitHub, Java and another programming languages;
 - 😄 Pronouns: she/her.
